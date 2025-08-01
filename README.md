@@ -1,6 +1,6 @@
 This is an end-to-end machine learning project to predict house prices in Bangalore, India. It includes data cleaning, model training, and a web application to make real-time predictions.
 
-🔧 Features
+## 🔧 Features
 Data Preprocessing: Handles missing values and outliers.
 
 Model Training: Uses a regression model (e.g., Linear Regression, Random Forest).
@@ -11,7 +11,8 @@ Minimal Dependencies: The project is easy to set up and run.
 
 Deployment Ready: The structure is set up for easy deployment on platforms like Heroku.
 
-📁 Project Structure
+## 📁 Project Structure
+
 <pre>
 BLR-House-Price-Prediction/
 ├── BLR_House_Price_Prediction.ipynb
@@ -27,7 +28,8 @@ BLR-House-Price-Prediction/
 └── static/
 </pre>
 
-🚀 How to Use
+## 🚀 How to Use
+
 1. Set up the Environment
 Make sure you have Python installed. We recommend using a virtual environment.
 
@@ -70,13 +72,12 @@ python3 app.py
 
 Open your web browser and go to http://127.0.0.1:5000/ to use the prediction tool.
 
-
-🏠 Example Output
+## 🏠 Example Output
 !(https://i.imgur.com/your-screenshot-link-here.png)
 
 (Note: You can replace the image link above with a screenshot of your own web application's output.)
 
-📝 Notes
+## 📝 Notes
 The model is trained on the Bengaluru_House_Data.csv dataset, which is a key component of the project.
 
 The prediction output is based on the features you provide: location, square feet, BHK (bedrooms), and bathrooms.
