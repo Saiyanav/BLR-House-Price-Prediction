@@ -68,11 +68,6 @@ python3 app.py
 
 Open your web browser and go to http://127.0.0.1:5000/ to use the prediction tool.
 
-## 🏠 Example Output
-!(https://i.imgur.com/your-screenshot-link-here.png)
-
-(Note: You can replace the image link above with a screenshot of your own web application's output.)
-
 ## 📝 Notes
 The model is trained on the Bengaluru_House_Data.csv dataset, which is a key component of the project.
 
