@@ -1,15 +1,11 @@
 This is an end-to-end machine learning project to predict house prices in Bangalore, India. It includes data cleaning, model training, and a web application to make real-time predictions.
 
 ## 🔧 Features
-Data Preprocessing: Handles missing values and outliers.
-
-Model Training: Uses a regression model (e.g., Linear Regression, Random Forest).
-
-Web Application: A user-friendly interface built with Flask for making predictions.
-
-Minimal Dependencies: The project is easy to set up and run.
-
-Deployment Ready: The structure is set up for easy deployment on platforms like Heroku.
+- Data Preprocessing: Handles missing values and outliers.
+- Model Training: Uses a regression model (e.g., Linear Regression, Random Forest).
+- Web Application: A user-friendly interface built with Flask for making predictions.
+- Minimal Dependencies: The project is easy to set up and run.
+- Deployment Ready: The structure is set up for easy deployment on platforms like Heroku.
 
 ## 📁 Project Structure
 
